@@ -1,0 +1,1 @@
+You have to generate input in some cases.
